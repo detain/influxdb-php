@@ -42,6 +42,9 @@
             "InfluxDB\\Test\\": "tests"
         }
     },
+    "provide": {
+        "influxdb/influxdb-php": "*"
+    },
     "suggest": {
         "stefanotorresi/influxdb-php-async": "An asyncronous client for InfluxDB, implemented via ReactPHP.",
         "ext-curl": "Curl extension, needed for Curl driver"

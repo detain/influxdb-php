@@ -7,9 +7,21 @@
         "influxdata",
         "client",
         "time series",
+        "time-series",
         "influxdb client",
         "influxdb class",
-        "influxdb library"
+        "influxdb library",
+        "influxdb-client",
+        "metrics",
+        "monitoring",
+        "observability",
+        "telegraf",
+        "grafana",
+        "time-series-database",
+        "rest-client",
+        "api-client",
+        "iot-metrics",
+        "php"
     ],
     "authors": [
         {
